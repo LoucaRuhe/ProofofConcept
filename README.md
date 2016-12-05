@@ -15,6 +15,7 @@ Het idee hierbij is dat je naast de oefeningen zelf toevoegen ook oefening sugge
 Hoe heb ik onderzoek aangepakt?
 
 Ik ben gestart met het mailen naar Pieter om over een aantal vragen duidelijkheid te krijgen. De vragen waren als volgt:
+
 1. Klopt het dat je OCD kunt onderverdelen in diverse OCD categorieën? En zo ja, welke categorieën?
 2. Is er een lijst met voorgestelde oefeningen die gebaseerd zijn op klachten?
 3. Is het mogelijk om een lijst te maken met voorgestelde oefeningen?
