@@ -26,6 +26,10 @@ Na de visuele uitwerking een beetje in mijn hoofd te hebben kwam de technische u
 
 1. Hoe sla ik de oefeningen op?
 2. Hoe haal ik deze oefeningen weer terug en weergeef ze bij de suggesties, onderverdeeld bij de categorieen 
-3. Na he tkiezen van een voorgestelde oefening, hoe zorg ik er dan voor dat hij niet opnieuw in de database terecht komt?
+3. Na het kiezen van een voorgestelde oefening, hoe zorg ik er dan voor dat hij niet opnieuw in de database terecht komt?
+
+Ook hier heb ik onderzoek naar gedaan op het web en heb rond gevraagd aan mensen die ik ken die hier ervaring in hebben. Uit mijn onderzoek en ik achter een paar nieuwe dingen gekomen waarmee ik antwoord heb gekregen op mijn vragen. 
+
+Resultaten:
 
 
