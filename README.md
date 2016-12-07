@@ -8,7 +8,7 @@ Mijn uitdaging tijdens het vak maken zal zijn om mijn ideeën op een technische 
 
 Tijdens het vak ontwerpen zijn wij aan de slag gegaan met key scenario's. Dit heeft er voor gezorgd dat ik een key scenario heb kunnen kiezen die ik daarmee ook technisch wil gaan uitwerken. Ik wil daarmee het volgende te weten komen:
 
-Hoe kan ik naast het toevoegen van oefeningen ook een optie geven voor voorgestelde oefeningen? Hoe krijg ik dit technisch werkend?
+Bestaat er iets zoals een voorgestelde oefeningen lijst bij het AMC? Hoe krijg ik dit technisch werkend?
 
 Het idee hierbij is dat je naast de oefeningen zelf toevoegen ook oefening suggesties krijgt. Het eerste wat ik wil uitzoeken is of er een standaard lijst met oefeningen is voor bepaalde scenario's bij OCD. Zodra ik dit weet wil ik bekijken hoe ik dit technisch kan toevoegen. Als laatste wil ik het technisch ook daadwerlijk uit gaan proberen. 
 
